@@ -1,0 +1,58 @@
+*****How to use the program******
+
+Thanks for trying !FunMusic
+
+Press 4, then Enter, to get the file list, then type in the number of the file you want to use and press enter.
+Then you can enter 6 to load the file you chose, and enter 2 to listen to it.
+Later on, you can enter 9 to quit the program.
+
+
+*****How to use the editor***** 
+
+Use these keys:  
+
+           - =
+Q             O  P  [  ]
+
+  S                    Enter
+Z X C   V    M  <  >
+
+--------------------------------------------------------------
+KEYS      | PURPOSE
+--------------------------------------------------------------
+Q         | Press 'Q' to exit the editor and return
+          | to the main menu.
+--------------------------------------------------------------
+S,Z,X,C   | Move the cursor around.
+--------------------------------------------------------------
+Enter     | Enter a note at the current position of the cursor.
+          | You press Enter, then you type in the note number
+          | that you want.
+--------------------------------------------------------------
+V         | Change the volume level at the current position
+          | of the cursor. You press 'V', and then you type
+          | in the volume number you want.
+          | 1 is silent, 16 is max volume.
+--------------------------------------------------------------
+M         | Enter the special function menu.
+          | If you try to use this menu, you should be careful
+          | not to enter in any strange values,
+          | because it might cause some kind of problem. 
+--------------------------------------------------------------
+-         | Repeat note. Copy the most recent note in the
+          | current channel to the cursor's current position.
+--------------------------------------------------------------
+=         | Insert a silent note (note cut) at the current
+          | position of the cursor.
+--------------------------------------------------------------
+[ and ]   | [ decreases the current note pitch by one
+          | and ] increases it.
+--------------------------------------------------------------
+< and >   | Change the current bar. < goes back by one,
+          | and > goes forward by one.
+--------------------------------------------------------------
+O and P   | 'P' plays the current bar. 'O' is supposed to
+          | the row of notes at the current cursor position,
+          | but it doesn't work properly.
+--------------------------------------------------------------
+

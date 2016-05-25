@@ -1,0 +1,4 @@
+|Run file for FunMusic
+Set FunMusic$Dir <Obey$Dir>
+|WimpSlot -min 128k -max 128k
+Run <FunMusic$Dir>.!RunImage
